@@ -1,5 +1,25 @@
 [
     {
+        "courseName": "Pokusný kurz",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+             {
+                "id": "test1",
+                "name": "Pokusná lekcee 1",
+                "topics": "Namátkou klikejte a tvařte se vážně.",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "being_silly": 0.85
+                },
+                "giveStuFeedback": false,
+                "giveStuHints": true,
+                "doMasteryUpdate": false,
+                "showStuMastery": false,
+                "unlockFirstHint": true
+            }
+            ]
+    },
+    {
         "courseName": "ChatGPT Control",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
