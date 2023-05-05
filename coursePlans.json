@@ -5,17 +5,14 @@
         "lessons": [
              {
                 "id": "test1",
-                "name": "Pokusná lekcee 1",
+                "name": "Pokusná lekce 1",
                 "topics": "Namátkou klikejte a tvařte se vážně.",
                 "allowRecycle": true,
-                "learningObjectives": {
-                    "being_silly": 0.85
-                },
                 "giveStuFeedback": false,
-                "giveStuHints": true,
+                "giveStuHints": false,
                 "doMasteryUpdate": false,
                 "showStuMastery": false,
-                "unlockFirstHint": true
+                "unlockFirstHint": false
             }
             ]
     },
