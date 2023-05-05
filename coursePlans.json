@@ -7,7 +7,7 @@
                 "id": "test1",
                 "name": "Pokusná lekce 1",
                 "topics": "Namátkou klikejte a tvařte se vážně.",
-                "allowRecycle": true,
+                "allowRecycle": false,
                 "giveStuFeedback": false,
                 "giveStuHints": false,
                 "doMasteryUpdate": false,
